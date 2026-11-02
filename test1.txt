@@ -1,0 +1,8 @@
+mkdir Dir1
+cd Dir1
+mkdir Dir2
+touch fich1
+touch fich2
+ls
+pwd
+print

@@ -1,0 +1,9 @@
+mkdir Dir1
+mkdir Dir2
+cd Dir1
+cd ..
+pwd
+cd ..
+cd Dir1
+cd /Dir2
+pwd

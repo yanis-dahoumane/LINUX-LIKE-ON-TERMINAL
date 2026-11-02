@@ -1,0 +1,6 @@
+mkdir Dir1
+mkdir Dir1
+cd Dir2
+touch fich1
+touch fich2
+cp fich1 fich2

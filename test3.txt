@@ -1,0 +1,13 @@
+mkdir Dir1
+cd Dir1
+touch fich1
+cp fich1 fich1copie
+ls
+mv fich1 fich2
+ls
+mv fich2 ../fich3
+cd ..
+ls
+rm fich3
+ls
+print

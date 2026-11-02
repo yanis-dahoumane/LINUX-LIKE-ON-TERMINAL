@@ -1,0 +1,14 @@
+mkdir groupe1
+cd groupe1
+mkdir groupe2
+mkdir groupe3
+cd groupe2
+touch yanis
+touch maxime
+cd ../groupe3
+touch romain
+cd /
+find romain
+mv groupe1 groupe4
+cp groupe4 groupe4cp
+print

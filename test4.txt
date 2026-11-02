@@ -1,0 +1,11 @@
+mkdir Dir1
+cd Dir1
+touch fich1
+mkdir Dir2
+cd Dir2 
+touch fich2
+cd ../..
+cp Dir1 Dir1copie
+print
+find fich2
+print

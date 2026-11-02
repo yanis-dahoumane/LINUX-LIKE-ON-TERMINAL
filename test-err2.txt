@@ -1,0 +1,7 @@
+mkdir Dir1
+cd Dir1
+mkdir Dir11
+cd ..
+mv Dir1 Dir1/Dir11/infinitecopy/
+cp Dir1 Dir1/Dir11/copiebizarre/
+
